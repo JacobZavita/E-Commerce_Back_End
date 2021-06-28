@@ -1,9 +1,7 @@
 require('dotenv').config()
 
 const express = require('express')
-// const { join } = require('path')
-// import sequelize connection
-// const { Sequelize } = require('sequelize')
+const mysql = require('mysql2')
 
 const app = express()
 
