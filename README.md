@@ -4,6 +4,10 @@ Github Repo: https://github.com/alwayssmellitfrist/E-Commerce_Back_End
 ## Description
 A back end for an e-commerce website managing inventory with products, categories, and tags.
 
+Here are videos walking through how it works:
+Part 1 - https://drive.google.com/file/d/19Js9WT-rU5VOQ_TON4UNQrcIwY66Qu8w/view
+Part 2 - https://drive.google.com/file/d/1WqouHmBZGO0EzOsDNFfzcPS2s-33o3oG/view
+
 # Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
