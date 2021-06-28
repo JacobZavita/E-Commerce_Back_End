@@ -8,6 +8,8 @@ Here are videos walking through how it works:
 Part 1 - https://drive.google.com/file/d/19Js9WT-rU5VOQ_TON4UNQrcIwY66Qu8w/view
 Part 2 - https://drive.google.com/file/d/1WqouHmBZGO0EzOsDNFfzcPS2s-33o3oG/view
 
+<iframe src="https://drive.google.com/file/d/1WqouHmBZGO0EzOsDNFfzcPS2s-33o3oG/preview" width="640" height="480"></iframe>
+
 # Table of Contents
 * [Installation](#installation)
 * [Usage](#usage)
