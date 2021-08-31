@@ -19,7 +19,7 @@ Part 2 - https://drive.google.com/file/d/1WqouHmBZGO0EzOsDNFfzcPS2s-33o3oG/view
 # Installation
 Clone from github and run npm i in CLI
 # Usage
-Fire up the app in CLI with node app.js
+Fire up the app in CLI with node app.js. Follow the commands from there to add/read/update/delete data as needed.
 # License
 This project is licensed under the MIT terms.
 # Contributing
